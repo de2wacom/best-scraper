@@ -1,2 +1,2 @@
 # best-scraper
-created by de2wa.com
+created by <a href="https://de2wa.com">de2wa.com</a>
